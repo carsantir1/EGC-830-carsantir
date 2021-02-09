@@ -68,7 +68,7 @@ MODULES = [
     'voting',
 ]
 
-BASEURL = 'https://egc-carsantir-examen1.herokuapp.com/'
+BASEURL = 'https://egc-carsantir-examen1.herokuapp.com'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
